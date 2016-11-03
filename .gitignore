@@ -1,2 +1,3 @@
-/.idea/
-/python_telegram_bots.iml
+.idea
+python_telegram_bots.iml
+*.log
